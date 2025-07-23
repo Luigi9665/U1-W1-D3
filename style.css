@@ -83,3 +83,7 @@ footer div {
     height: 100%;
     width: 900px;
 }
+
+#list li{
+    padding: 5px;
+}
